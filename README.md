@@ -9,7 +9,7 @@ This is a basic C++ calculator that supports:
 - Power
 - Modulus
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 g++ calculator.cpp -o calculator
 ./calculator
